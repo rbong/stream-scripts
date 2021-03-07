@@ -1,0 +1,8 @@
+# Demos
+demos/
+pouetdatadump-*.json.gz
+pouetdatadump-*.json
+demo_list*
+
+# Logs
+*.log
